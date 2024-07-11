@@ -4,12 +4,10 @@ Kubesecret is a simple wrapper over fzf and kubectl to view configmaps effective
 
 ## Table of Contents
 
-
 * [Installation](#installation)
 * [Quickstart](#quickstart)
 * [Usage](#usage)
-* [Related repo:](#related-repo)
-
+* [Related repo](#related-repo)
 
 ## Installation
 
@@ -59,5 +57,5 @@ optional arguments:
 
 ```
 
-## Related repo:
+## Related repo
 - [kubeconf](https://github.com/HandOfGod94/kubeconf): A similar tool to view kubernetes configmaps
